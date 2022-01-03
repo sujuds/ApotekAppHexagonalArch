@@ -1,7 +1,6 @@
 C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppBusiness.Data\bin\Debug\netcoreapp3.1\AppBusiness.Data.deps.json
 C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppBusiness.Data\bin\Debug\netcoreapp3.1\AppBusiness.Data.dll
 C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppBusiness.Data\bin\Debug\netcoreapp3.1\AppBusiness.Data.pdb
-C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppBusiness.Data\obj\Debug\netcoreapp3.1\AppBusiness.Data.csproj.AssemblyReference.cache
 C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppBusiness.Data\obj\Debug\netcoreapp3.1\AppBusiness.Data.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppBusiness.Data\obj\Debug\netcoreapp3.1\AppBusiness.Data.AssemblyInfoInputs.cache
 C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppBusiness.Data\obj\Debug\netcoreapp3.1\AppBusiness.Data.AssemblyInfo.cs

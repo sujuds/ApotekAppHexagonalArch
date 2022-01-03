@@ -1,0 +1,283 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Alterra\\source\\repos\\PROJECT\\ApotekAppHexagonalArch\\AppPersistence.Mock\\AppPersistence.Mock.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Alterra\\source\\repos\\PROJECT\\ApotekAppHexagonalArch\\AppBusiness.Data\\AppBusiness.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Alterra\\source\\repos\\PROJECT\\ApotekAppHexagonalArch\\AppBusiness.Data\\AppBusiness.Data.csproj",
+        "projectName": "AppBusiness.Data",
+        "projectPath": "C:\\Users\\Alterra\\source\\repos\\PROJECT\\ApotekAppHexagonalArch\\AppBusiness.Data\\AppBusiness.Data.csproj",
+        "packagesPath": "C:\\Users\\Alterra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alterra\\source\\repos\\PROJECT\\ApotekAppHexagonalArch\\AppBusiness.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alterra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Alterra\\source\\repos\\PROJECT\\ApotekAppHexagonalArch\\AppPersistence.Interface\\AppPersistence.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Alterra\\source\\repos\\PROJECT\\ApotekAppHexagonalArch\\AppPersistence.Interface\\AppPersistence.Interface.csproj",
+        "projectName": "AppPersistence.Interface",
+        "projectPath": "C:\\Users\\Alterra\\source\\repos\\PROJECT\\ApotekAppHexagonalArch\\AppPersistence.Interface\\AppPersistence.Interface.csproj",
+        "packagesPath": "C:\\Users\\Alterra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alterra\\source\\repos\\PROJECT\\ApotekAppHexagonalArch\\AppPersistence.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alterra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Alterra\\source\\repos\\PROJECT\\ApotekAppHexagonalArch\\AppBusiness.Data\\AppBusiness.Data.csproj": {
+                "projectPath": "C:\\Users\\Alterra\\source\\repos\\PROJECT\\ApotekAppHexagonalArch\\AppBusiness.Data\\AppBusiness.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Alterra\\source\\repos\\PROJECT\\ApotekAppHexagonalArch\\AppPersistence.Mock\\AppPersistence.Mock.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Alterra\\source\\repos\\PROJECT\\ApotekAppHexagonalArch\\AppPersistence.Mock\\AppPersistence.Mock.csproj",
+        "projectName": "AppPersistence.Mock",
+        "projectPath": "C:\\Users\\Alterra\\source\\repos\\PROJECT\\ApotekAppHexagonalArch\\AppPersistence.Mock\\AppPersistence.Mock.csproj",
+        "packagesPath": "C:\\Users\\Alterra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alterra\\source\\repos\\PROJECT\\ApotekAppHexagonalArch\\AppPersistence.Mock\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alterra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Alterra\\source\\repos\\PROJECT\\ApotekAppHexagonalArch\\AppPersistence.Interface\\AppPersistence.Interface.csproj": {
+                "projectPath": "C:\\Users\\Alterra\\source\\repos\\PROJECT\\ApotekAppHexagonalArch\\AppPersistence.Interface\\AppPersistence.Interface.csproj"
+              },
+              "C:\\Users\\Alterra\\source\\repos\\PROJECT\\ApotekAppHexagonalArch\\AppPersistence.MySql\\AppPersistence.MySql.csproj": {
+                "projectPath": "C:\\Users\\Alterra\\source\\repos\\PROJECT\\ApotekAppHexagonalArch\\AppPersistence.MySql\\AppPersistence.MySql.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Alterra\\source\\repos\\PROJECT\\ApotekAppHexagonalArch\\AppPersistence.MySql\\AppPersistence.MySql.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Alterra\\source\\repos\\PROJECT\\ApotekAppHexagonalArch\\AppPersistence.MySql\\AppPersistence.MySql.csproj",
+        "projectName": "AppPersistence.MySql",
+        "projectPath": "C:\\Users\\Alterra\\source\\repos\\PROJECT\\ApotekAppHexagonalArch\\AppPersistence.MySql\\AppPersistence.MySql.csproj",
+        "packagesPath": "C:\\Users\\Alterra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alterra\\source\\repos\\PROJECT\\ApotekAppHexagonalArch\\AppPersistence.MySql\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alterra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Alterra\\source\\repos\\PROJECT\\ApotekAppHexagonalArch\\AppPersistence.Interface\\AppPersistence.Interface.csproj": {
+                "projectPath": "C:\\Users\\Alterra\\source\\repos\\PROJECT\\ApotekAppHexagonalArch\\AppPersistence.Interface\\AppPersistence.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

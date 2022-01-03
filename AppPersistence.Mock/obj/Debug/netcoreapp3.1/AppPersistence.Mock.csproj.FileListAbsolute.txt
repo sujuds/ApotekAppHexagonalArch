@@ -1,0 +1,17 @@
+C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppPersistence.Mock\bin\Debug\netcoreapp3.1\AppPersistence.Mock.deps.json
+C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppPersistence.Mock\bin\Debug\netcoreapp3.1\AppPersistence.Mock.dll
+C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppPersistence.Mock\bin\Debug\netcoreapp3.1\AppPersistence.Mock.pdb
+C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppPersistence.Mock\bin\Debug\netcoreapp3.1\AppBusiness.Data.dll
+C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppPersistence.Mock\bin\Debug\netcoreapp3.1\AppPersistence.Interface.dll
+C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppPersistence.Mock\bin\Debug\netcoreapp3.1\AppPersistence.Interface.pdb
+C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppPersistence.Mock\bin\Debug\netcoreapp3.1\AppBusiness.Data.pdb
+C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppPersistence.Mock\obj\Debug\netcoreapp3.1\AppPersistence.Mock.csproj.AssemblyReference.cache
+C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppPersistence.Mock\obj\Debug\netcoreapp3.1\AppPersistence.Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppPersistence.Mock\obj\Debug\netcoreapp3.1\AppPersistence.Mock.AssemblyInfoInputs.cache
+C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppPersistence.Mock\obj\Debug\netcoreapp3.1\AppPersistence.Mock.AssemblyInfo.cs
+C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppPersistence.Mock\obj\Debug\netcoreapp3.1\AppPersistence.Mock.csproj.CoreCompileInputs.cache
+C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppPersistence.Mock\obj\Debug\netcoreapp3.1\AppPersistence.Mock.csproj.CopyComplete
+C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppPersistence.Mock\obj\Debug\netcoreapp3.1\AppPersistence.Mock.dll
+C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppPersistence.Mock\obj\Debug\netcoreapp3.1\AppPersistence.Mock.pdb
+C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppPersistence.Mock\bin\Debug\netcoreapp3.1\AppPersistence.MySql.dll
+C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppPersistence.Mock\bin\Debug\netcoreapp3.1\AppPersistence.MySql.pdb

@@ -11,17 +11,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{0A83
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{DCE439EC-97E4-42E4-AB22-87AC6486D932}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppPersistence.MySql", "AppPersistence.MySql\AppPersistence.MySql.csproj", "{D484330C-060A-47C8-AC1E-289D2BA3D393}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppPersistence.MySql", "AppPersistence.MySql\AppPersistence.MySql.csproj", "{D484330C-060A-47C8-AC1E-289D2BA3D393}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestApi", "RestApi\RestApi.csproj", "{9A34DC8D-1263-45E7-A2AB-06414CD55FAF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestApi", "RestApi\RestApi.csproj", "{9A34DC8D-1263-45E7-A2AB-06414CD55FAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppBusiness.Data", "AppBusiness.Data\AppBusiness.Data.csproj", "{81E9AD23-1777-4C98-8406-3149994C766C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppBusiness.Data", "AppBusiness.Data\AppBusiness.Data.csproj", "{81E9AD23-1777-4C98-8406-3149994C766C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppBusiness.Impl", "AppBusiness.Impl\AppBusiness.Impl.csproj", "{115102FF-8872-4B0D-81BB-2FDD64B9C5B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppBusiness.Impl", "AppBusiness.Impl\AppBusiness.Impl.csproj", "{115102FF-8872-4B0D-81BB-2FDD64B9C5B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppBusiness.Interface", "AppBusiness.Interface\AppBusiness.Interface.csproj", "{57C69CDD-8DF3-4525-B5ED-D44261C7E1E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppBusiness.Interface", "AppBusiness.Interface\AppBusiness.Interface.csproj", "{57C69CDD-8DF3-4525-B5ED-D44261C7E1E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppPersistence.Interface", "AppPersistence.Interface\AppPersistence.Interface.csproj", "{ED63447C-8276-48CE-BB6F-4C337761F374}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppPersistence.Interface", "AppPersistence.Interface\AppPersistence.Interface.csproj", "{ED63447C-8276-48CE-BB6F-4C337761F374}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppBusiness.Impl.Test", "AppBusiness.Impl.Test\AppBusiness.Impl.Test.csproj", "{75FE778A-1B07-4F19-9021-2D925BE8C208}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppPersistence.Mock", "AppPersistence.Mock\AppPersistence.Mock.csproj", "{578A89E7-E78F-4F8A-AE0E-B206C88073EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,6 +57,14 @@ Global
 		{ED63447C-8276-48CE-BB6F-4C337761F374}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED63447C-8276-48CE-BB6F-4C337761F374}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED63447C-8276-48CE-BB6F-4C337761F374}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75FE778A-1B07-4F19-9021-2D925BE8C208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75FE778A-1B07-4F19-9021-2D925BE8C208}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75FE778A-1B07-4F19-9021-2D925BE8C208}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75FE778A-1B07-4F19-9021-2D925BE8C208}.Release|Any CPU.Build.0 = Release|Any CPU
+		{578A89E7-E78F-4F8A-AE0E-B206C88073EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{578A89E7-E78F-4F8A-AE0E-B206C88073EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{578A89E7-E78F-4F8A-AE0E-B206C88073EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{578A89E7-E78F-4F8A-AE0E-B206C88073EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -64,6 +76,8 @@ Global
 		{115102FF-8872-4B0D-81BB-2FDD64B9C5B2} = {AA07287D-6E2D-4E6B-97F9-10AA04EA1562}
 		{57C69CDD-8DF3-4525-B5ED-D44261C7E1E6} = {AA07287D-6E2D-4E6B-97F9-10AA04EA1562}
 		{ED63447C-8276-48CE-BB6F-4C337761F374} = {AA07287D-6E2D-4E6B-97F9-10AA04EA1562}
+		{75FE778A-1B07-4F19-9021-2D925BE8C208} = {DCE439EC-97E4-42E4-AB22-87AC6486D932}
+		{578A89E7-E78F-4F8A-AE0E-B206C88073EE} = {DCE439EC-97E4-42E4-AB22-87AC6486D932}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7EA517CE-0025-49EE-A6DC-50669E413E44}
