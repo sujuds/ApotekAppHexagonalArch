@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AppBusiness.Interface\AppBusiness.Interface.csproj" />
+    <ProjectReference Include="..\AppPersistence.Interface\AppPersistence.Interface.csproj" />
+    <ProjectReference Include="..\AppPersistence.MySql\AppPersistence.MySql.csproj" />
+  </ItemGroup>
+
+</Project>

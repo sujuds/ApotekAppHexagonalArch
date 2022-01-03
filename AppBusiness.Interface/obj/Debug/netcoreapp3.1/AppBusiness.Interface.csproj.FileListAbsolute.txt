@@ -1,0 +1,13 @@
+C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppBusiness.Interface\bin\Debug\netcoreapp3.1\AppBusiness.Interface.deps.json
+C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppBusiness.Interface\bin\Debug\netcoreapp3.1\AppBusiness.Interface.dll
+C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppBusiness.Interface\bin\Debug\netcoreapp3.1\AppBusiness.Interface.pdb
+C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppBusiness.Interface\bin\Debug\netcoreapp3.1\AppBusiness.Data.dll
+C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppBusiness.Interface\bin\Debug\netcoreapp3.1\AppBusiness.Data.pdb
+C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppBusiness.Interface\obj\Debug\netcoreapp3.1\AppBusiness.Interface.csproj.AssemblyReference.cache
+C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppBusiness.Interface\obj\Debug\netcoreapp3.1\AppBusiness.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppBusiness.Interface\obj\Debug\netcoreapp3.1\AppBusiness.Interface.AssemblyInfoInputs.cache
+C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppBusiness.Interface\obj\Debug\netcoreapp3.1\AppBusiness.Interface.AssemblyInfo.cs
+C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppBusiness.Interface\obj\Debug\netcoreapp3.1\AppBusiness.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppBusiness.Interface\obj\Debug\netcoreapp3.1\AppBusiness.Interface.csproj.CopyComplete
+C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppBusiness.Interface\obj\Debug\netcoreapp3.1\AppBusiness.Interface.dll
+C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppBusiness.Interface\obj\Debug\netcoreapp3.1\AppBusiness.Interface.pdb

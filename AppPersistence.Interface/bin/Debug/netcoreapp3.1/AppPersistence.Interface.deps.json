@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AppPersistence.Interface/1.0.0": {
+        "dependencies": {
+          "AppBusiness.Data": "1.0.0"
+        },
+        "runtime": {
+          "AppPersistence.Interface.dll": {}
+        }
+      },
+      "AppBusiness.Data/1.0.0": {
+        "runtime": {
+          "AppBusiness.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppPersistence.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AppBusiness.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
