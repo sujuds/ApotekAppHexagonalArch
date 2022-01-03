@@ -15,6 +15,7 @@ namespace AppBusiness.Data.DTOs.Parameters
     {
         public int? Id { get; set; }
         public int? Jumlah { get; set; }
+        public int? ObatId { get; set; }
         public ParamObatDto Obat { get; set; }
     }
 }

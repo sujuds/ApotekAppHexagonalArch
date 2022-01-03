@@ -23,6 +23,7 @@ namespace RestApi.Controllers
             _obatService = business.IObatService;
         }
 
+        
         [HttpGet]
         public async Task<IActionResult> GetAll()
         {

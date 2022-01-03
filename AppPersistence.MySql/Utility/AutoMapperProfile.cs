@@ -13,7 +13,8 @@ namespace AppPersistence.MySql.Utility
         public AutoMapperProfile()
         {
             CreateMap<ParamObatDto, Obat>().ReverseMap();
-            CreateMap<ParamTransaksiDto, Obat>().ReverseMap();
+            CreateMap<ParamTransaksiDto, Transaksi>().ReverseMap();
+            CreateMap<ParamTransaksiDetailDto, TransaksiDetail>().ReverseMap();
 
             CreateMap<Obat, ObatDto>().ReverseMap();
             CreateMap<Transaksi, TransaksiDto>().ReverseMap();
