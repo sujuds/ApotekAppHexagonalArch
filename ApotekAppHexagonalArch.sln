@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppBusiness.Impl.Test", "Ap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppPersistence.Mock", "AppPersistence.Mock\AppPersistence.Mock.csproj", "{578A89E7-E78F-4F8A-AE0E-B206C88073EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestApi.Test", "RestApi.Test\RestApi.Test.csproj", "{43A885EC-B29F-4DC1-9BD0-563EE2DEAF06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -65,6 +67,10 @@ Global
 		{578A89E7-E78F-4F8A-AE0E-B206C88073EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{578A89E7-E78F-4F8A-AE0E-B206C88073EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{578A89E7-E78F-4F8A-AE0E-B206C88073EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43A885EC-B29F-4DC1-9BD0-563EE2DEAF06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A885EC-B29F-4DC1-9BD0-563EE2DEAF06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A885EC-B29F-4DC1-9BD0-563EE2DEAF06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A885EC-B29F-4DC1-9BD0-563EE2DEAF06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -78,6 +84,7 @@ Global
 		{ED63447C-8276-48CE-BB6F-4C337761F374} = {AA07287D-6E2D-4E6B-97F9-10AA04EA1562}
 		{75FE778A-1B07-4F19-9021-2D925BE8C208} = {DCE439EC-97E4-42E4-AB22-87AC6486D932}
 		{578A89E7-E78F-4F8A-AE0E-B206C88073EE} = {DCE439EC-97E4-42E4-AB22-87AC6486D932}
+		{43A885EC-B29F-4DC1-9BD0-563EE2DEAF06} = {DCE439EC-97E4-42E4-AB22-87AC6486D932}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7EA517CE-0025-49EE-A6DC-50669E413E44}

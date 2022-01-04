@@ -7,3 +7,4 @@ C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppBusiness.Data\ob
 C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppBusiness.Data\obj\Debug\netcoreapp3.1\AppBusiness.Data.csproj.CoreCompileInputs.cache
 C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppBusiness.Data\obj\Debug\netcoreapp3.1\AppBusiness.Data.dll
 C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppBusiness.Data\obj\Debug\netcoreapp3.1\AppBusiness.Data.pdb
+C:\Users\Alterra\source\repos\PROJECT\ApotekAppHexagonalArch\AppBusiness.Data\obj\Debug\netcoreapp3.1\AppBusiness.Data.csproj.AssemblyReference.cache

@@ -42,6 +42,27 @@ namespace AppBusiness.Impl.Test.Services
             //assert
             Assert.Equal(expected.Kode, result.Kode);
         }
+        
+        [Fact]
+        public void CanGetObatById()
+        {
+            // arrange
+            var expected = new ObatDto()
+            {
+                Id = 1,
+                Kode = "111",
+                Nama = "Paracetamol",
+                Stok = 10,
+                Harga = 500,
+                Foto = "test1.jpg"
+            };
+
+            //act
+            var result = SUT.Get((int) 1).Result.Value;
+
+            //assert
+            Assert.Equal(expected.Kode, result.Kode);
+        }
 
         [Fact]
         public void CanAddObat()

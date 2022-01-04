@@ -112,7 +112,31 @@ namespace AppPersistence.Mock.Repositories
 
         public Task<RepositoryResponse> GetData(int id)
         {
-            throw new NotImplementedException();
+            var obats = new ObatDto() { 
+                Id = 1,
+                Nama = "Paracetamol",
+                Kode = "111",
+                Stok = 10,
+                Harga = 500,
+                Foto = "test1.jpg"
+            };
+
+            var response = new RepositoryResponse()
+            {
+                Status = false,
+                Message = "Data obat tidak ditemukan !"
+            };
+
+            if (obats != null)
+            {
+                response = new RepositoryResponse()
+                {
+                    Status = true,
+                    Value = obats
+                };
+            }
+
+            return Task.FromResult(response);
         }
 
         public Task<RepositoryResponse> UpdateData(ParamObatDto param)

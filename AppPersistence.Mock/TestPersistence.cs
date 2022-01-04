@@ -11,6 +11,6 @@ namespace AppPersistence.Mock
     {
         public IObat Obat => new TestObat();
 
-        public ITransaksi Transaksi => throw new NotImplementedException();
+        public ITransaksi Transaksi => new TestTransaksi();
     }
 }

@@ -40,7 +40,11 @@ namespace RestApi.Controllers
         [Consumes("multipart/form-data")]
         public async Task<IActionResult> Add([FromForm] ParamObatWithFotoDto param)
         {
-            string fileName = UploadFile(param.Foto).Result.ToString();
+            string fileName = null;
+            if (param.Foto != null)
+            {
+                fileName = UploadFile(param.Foto).Result.ToString();
+            }
 
             return new JsonResult(await _obatService.Add(new ParamObatDto
             {
